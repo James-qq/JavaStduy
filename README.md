@@ -1,2 +1,4 @@
-# JavaStduy
-Java学习笔记
+# JavaStudy
+
+> An awesome project.
+
